@@ -1,0 +1,39 @@
+{
+  "resources/assets/bg1.png": {
+    "file": "assets/bg1-6b5b8ae1.png",
+    "src": "resources/assets/bg1.png"
+  },
+  "resources/assets/bg_header.png": {
+    "file": "assets/bg_header-9a809991.png",
+    "src": "resources/assets/bg_header.png"
+  },
+  "resources/assets/bg_task.png": {
+    "file": "assets/bg_task-b082d21a.png",
+    "src": "resources/assets/bg_task.png"
+  },
+  "resources/css/admin.css": {
+    "file": "assets/admin-0314f331.css",
+    "isEntry": true,
+    "src": "resources/css/admin.css"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-20052208.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/css/invoice.css": {
+    "file": "assets/invoice-b75a8598.css",
+    "isEntry": true,
+    "src": "resources/css/invoice.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-c1097373.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-4d7758ee.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  }
+}
